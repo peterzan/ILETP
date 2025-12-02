@@ -60,3 +60,26 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# ========================================
+# Project-Specific Additions (5way Chat App)
+# ========================================
+
+# Build products (additional coverage)
+DerivedData/
+Build/
+build/
+
+# Xcode user state (additional coverage)
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
+
+# API Keys and Secrets (CRITICAL - DO NOT COMMIT)
+# Note: Production keys stored in macOS Keychain, not in files
+# These patterns provide extra safety in case temporary key files are created
+**/API_KEYS.txt
+**/secrets.plist
+*.key
