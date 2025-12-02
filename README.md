@@ -1,1 +1,1 @@
-# Inter-LLM Ensemble Trust PLatform (ILETP™)
+# Inter-LLM Ensemble Trust Platform (ILETP™)
