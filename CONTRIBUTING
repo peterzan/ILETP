@@ -1,0 +1,39 @@
+# Contributing to ILETP™
+
+Thank you for your interest in the Inter-LLM Ensemble Trust Platform (ILETP).  
+This project is in its early "seed" phase — ideas, discussions, frameworks, and prototypes are welcome.
+
+## How to Contribute
+
+1. Start a discussion or open an Issue for ideas or questions.
+2. Submit Pull Requests for improvements to docs or specs.
+3. Propose use cases, mappings to other frameworks, or design thoughts.
+4. Be constructive, collaborative, and curious.
+
+### All contributions are welcome:
+- Docs, writing, editing
+- Research links or examples
+- Architecture proposals
+- Test or experiment ideas
+- Policy connections or safety perspectives
+
+## Collaboration Principles
+
+- Assume positive intent.
+- Challenge ideas, not people.
+- Specs evolve over time — nothing is final.
+- Diversity of perspective = strength.
+
+## Before submitting a PR
+
+- Check open issues to avoid duplicates.
+- Keep scope clear and well-described.
+- Major proposals should start as Issues or discussions.
+
+## License & IP
+
+By contributing, you agree that submissions become part of the open project.
+
+---
+
+ILETP is a starting point — help shape where it goes.
