@@ -36,4 +36,4 @@ By contributing, you agree that submissions become part of the open project.
 
 ---
 
-ILETP as I initially defined it is the starting point — help shape where it goes.
+ILETP as I initially defined it is the **starting point** — help shape where it goes.
