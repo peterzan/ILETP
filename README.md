@@ -10,7 +10,7 @@ This repository uses two licenses:
 
 Per-file headers:
 - Code files include an Apache SPDX header, e.g. `// SPDX-License-Identifier: Apache-2.0`.
-- Markdown documentation files include a CC BY SPDX header as an HTML comment at the top, e.g.:
+- Markdown documentation files include a CC BY SPDX header as an HTML comment at the top,:
   `<!-- SPDX-License-Identifier: CC-BY-4.0 -->`
   `<!-- Copyright 2025 Peter Zan. Licensed under CC BY 4.0. See LICENSE-CC-BY-4.0.txt in the repository root. -->`
 
