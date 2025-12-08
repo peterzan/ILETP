@@ -38,9 +38,7 @@ The long-term strength of ILETP likely depends not on standing alone, but on **b
 
 ## If adoption grows, laws become less binary
 
-Today the debate is often framed as a contest:
-
-**State regulations vs. Federal regulations**
+Today the debate is often framed as a contest: **State regulations vs. Federal regulations**
 
 But if the technical foundations of safety are shaped in the open, that distinction may matter less over time. States could set context-specific rules (employment, housing, healthcare). Federal law could handle cross-state and national concerns. Both could reference — or take inspiration from — a **shared technical floor** that the community maintains.
 
