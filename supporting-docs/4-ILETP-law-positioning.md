@@ -3,11 +3,11 @@
 
 # ILETP™ & The Law: A Community-Led Path for AI Safety and Accountability
 
-As AI systems accelerate, policy conversations in the U.S. and abroad are wrestling with a key question: **should safety rules be shaped at the state level or federally?** Opinions differ, and laws will evolve — but legislation alone will never move as quickly as the technology it aims to govern. This is where open source can play a meaningful role.
+As AI systems accelerate, policy conversations in the U.S. and abroad are wrestling with a key question: **should safety rules be shaped at the state level or federally?** Opinions differ, and laws will evolve, but legislation alone will never move as quickly as the technology it aims to govern. This is where open source can play a meaningful role.
 
 **ILETP is not a replacement for regulation.** It is a **potential starting point** — a community-driven framework that could one day complement and connect with existing safety practices already emerging across the industry. If nurtured in the open, ILETP may help reduce fragmentation and provide a common technical foundation others can build on.
 
-This document isn’t a manifesto or a final blueprint. It’s a **seed**. A way to frame how ILETP could fit within the larger landscape of AI safety and governance — and an invitation for developers, researchers, and early adopters to help shape what comes next.
+This document isn’t a manifesto or a final blueprint. It’s a **seed**. A way to frame how ILETP could fit within the larger landscape of AI safety and governance, and an invitation for developers, researchers, and early adopters to help shape what comes next.
 
 ---
 
@@ -15,15 +15,15 @@ This document isn’t a manifesto or a final blueprint. It’s a **seed**. A way
 
 Government policy is important and necessary, but it evolves slowly. Bills take years. Technology evolves monthly. Even when laws are passed, they risk becoming outdated if they encode rigid technical requirements.
 
-Open-source projects, by contrast, can evolve dynamically, version over version. They can respond to new risks, incorporate research, and reflect feedback from those building and deploying AI systems every day. A community effort like ILETP isn’t about bypassing regulation — **it’s about giving regulators, developers, and organizations something concrete to reference, build on, or align with.**
+Open-source projects, by contrast, can evolve dynamically, version over version. They can respond to new risks, incorporate research, and reflect feedback from those building and deploying AI systems every day. A community effort like ILETP isn’t about bypassing regulation, **it’s about giving regulators, developers, and organizations something concrete to reference, build on, or align with.**
 
-If industry and open-source communities begin to converge on shared expectations for safety, **legislation becomes easier** — courts, states, and federal agencies can reference what the community has already validated instead of starting from scratch.
+If industry and open-source communities begin to converge on shared expectations for safety, **legislation becomes easier**, courts, states, and federal agencies can reference what the community has already validated instead of starting from scratch.
 
 ---
 
 ## ILETP as a complement, not a standalone framework
 
-Modern AI safety isn’t a blank slate. Work is already ongoing — frameworks, protocols, risk management models, and evaluation approaches are emerging today. ILETP shouldn’t position itself as *the* solution, but rather as a **potential connection point between them.**
+Modern AI safety isn’t a blank slate. Work is already ongoing, frameworks, protocols, risk management models, and evaluation approaches are emerging today. ILETP shouldn’t position itself as *the* solution, but rather as a **potential connection point between them.**
 
 Instead of claiming specific capabilities, the opportunity for ILETP is to remain:
 
@@ -62,7 +62,7 @@ This **is**:
 - a framing for future integration and policy relevance  
 - an invitation to help shape the future direction of ILETP  
 
-The community — not a single author — will define what ILETP becomes.
+The community, not a single author will define what ILETP becomes.
 
 ---
 
@@ -76,7 +76,7 @@ This project opens the door for contributions across many areas, including but n
 - building connectors, interfaces, or validation tooling  
 - discussing governance, versioning, and evolution models  
 
-You do **not** need to be a deep ML researcher to contribute. Participation from developers, policy thinkers, risk analysts, and systems architects is not just welcome — it’s essential.
+You do **not** need to be a deep ML researcher to contribute. Participation from developers, policy thinkers, risk analysts, and systems architects is not just welcome, it’s essential.
 
 If ILETP succeeds, it will be because the community made it real.
 
@@ -87,4 +87,4 @@ If ILETP succeeds, it will be because the community made it real.
 AI will shape the coming decade. How we handle trust, safety, transparency, and accountability will shape AI.
 
 **ILETP is not a finished standard — it’s a starting point.**  
-A place where open collaboration can build technical foundations that policy and industry may one day rely on. If the work resonates, fork it, critique it, extend it, challenge it — help it grow.
+A place where open collaboration can build technical foundations that policy and industry may one day rely on. If the work resonates, fork it, critique it, extend it, challenge it and help it grow.
