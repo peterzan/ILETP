@@ -1,13 +1,13 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 <!-- Copyright 2025 Peter Zan. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See LICENSE-CC-BY-4.0.txt in the repository root. -->
 
-# International Perspective: AI Fragmentation and the Need for a Neutral Trust Layer — The Role of ILETP™
+# International Perspective: AI Fragmentation and the Need for a Neutral Trust Layer; The Role of ILETP™
 
 ## Introduction
 
 AI is no longer a single global ecosystem. As models, hardware, regulations, and national strategies diverge across regions, the world is moving from a unified AI trajectory to a **fragmented, multi-polar landscape**.  This fragmentation is not temporary. It is structural, political, economic, and infrastructural.
 
-In such an environment, no single model — and no single nation — can dictate shared standards of trust, validation, or correctness.
+In such an environment, no single model, and no single nation can dictate shared standards of trust, validation, or correctness.
 
 What the world needs is not a universal model, but a universal **trust architecture**: a way to evaluate, compare, and diagnose behavior across independent, heterogeneous LLM fleets, regardless of where they come from.
 This is the role of the **Inter-LLM Ensemble Trust Platform (ILETP)**.
@@ -64,15 +64,15 @@ Global actors are developing:
 
 Many regions will operate:
     hybrid cloud + local edge
-    air-gapped HPC
-    low-bandwidth rural environments
-    energy-constrained data centers
+    air gapped HPC
+    low bandwidth rural environments
+    energy constrained data centers
     
 This is not convergence.
 It is **global divergence**.
 And it’s accelerating.
 
-## The Consequence: Trust Becomes Region-Bound
+## The Consequence: Trust Becomes Region Bound
 
 In a fragmented world, a single model’s answer cannot be universally trusted because:
     different regions enforce different safety filters
@@ -97,28 +97,28 @@ But no single region has the moral or political position to define a global stan
 
 What the world needs is a system that works across these differences, not one that tries to erase them.
 
-## Why Fleets — Not Single Models — Are the Global Future
+## Why Fleets, Not Single Models Are the Global Future
 
 Fragmented AI ecosystems inevitably push the world toward multi-model fleets:
     US models
     Chinese open-source models
-    EU-compliant models
+    EU compliant models
     India’s sovereign stack
-    Middle Eastern cloud-optimized models
+    Middle Eastern cloud optimized models
     African and LATAM open-source local deployments
     
 Each region will have its own strengths and constraints.
 
-This means every serious application — public or private — will need to incorporate multiple models to achieve:
+This means every serious application, public or private will need to incorporate multiple models to achieve:
     diversity of reasoning
     redundancy and fault tolerance
-    policy-aware selection
+    policy aware selection
     localized compliance
-    region-neutral trust scoring
-    cross-model drift detection
+    region neutral trust scoring
+    cross model drift detection
     portable diagnostics
     
-This is not optional — it is the emergent global architecture.
+This is not optional, it is the emergent global architecture.
 
 And that is where ILETP™ fits.
 
@@ -163,7 +163,7 @@ It encodes structural values:
 
 Critical for regions with:
     less stable power grids
-    mixed-vendor GPU fleets
+    mixed vendor GPU fleets
     inconsistent supply chains
     hybrid (local + cloud) deployments
     
@@ -188,34 +188,34 @@ As Chinese open-source accelerates and APAC nations adopt mixed stacks, ILETP pr
     cloud vs local inference differences
     model drift between domestic and international releases
     
-## U.S.
+## U.S. & NA
 
 ILETP offers:
     interoperability across proprietary U.S. models
     reproducible testing of cloud GPU instability
-    neutral validation for export-compliant model variants
+    neutral validation for export compliant model variants
     
 ## Europe
 
 Under the EU AI Act, ILETP can:
-    provide audit-friendly diagnostics
+    provide audit friendly diagnostics
     validate refusals and safety boundaries
-    analyze cross-vendor consistency
-    support post-market monitoring
+    analyze cross vendor consistency
+    support post market monitoring
     
 ## India, UAE, Saudi Arabia
 
 These rapidly scaling sovereign AI hubs can use ILETP to:
     validate local silicon
-    test multi-cloud drift
+    test multi cloud drift
     build hybrid cloud + on-prem fleets
-    ensure policy-aware multi-model alignment
+    ensure policy aware multi model alignment
     
 ## Africa and LATAM
 
 ILETP offers:
     reproducibility for inconsistent hardware
-    fleet-based trust without needing frontier models
+    fleet based trust without needing frontier models
     community validation of local open-source models
     
 In short:
@@ -239,11 +239,11 @@ Understanding is mandatory.
 
 ILETP™ succeeds because it is:
     open-source
-    deployment-agnostic
-    model-agnostic
-    cloud-agnostic
+    deployment agnostic
+    model agnostic
+    cloud agnostic
     politically neutral
-    sovereignty-preserving
+    sovereignty preserving
     
 It does not force nations to adopt a single system.
 It allows any system to plug into a shared trust layer.
@@ -256,7 +256,7 @@ In a fragmented world, ILETP becomes:
     a standardization anchor
     a safety framework
     a local validation utility
-    a multi-region interoperability bridge
+    a multi region interoperability bridge
     
 It is not an AI model.
 It is an **AI infrastructure pattern**.
