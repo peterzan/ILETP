@@ -2,14 +2,33 @@
 <!-- Copyright 2025 Peter Zan. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See LICENSE-CC-BY-4.0.txt in the repository root. -->
 
 # Specification 5: Asynchronous Task & Notification
-## Specification  Concepts
-### Specification Concept 1: 
-A method for managing long-running tasks across multiple AI agents, including:* Task delegation to an agent or set of agents.* Proactive notifications to inform the user of task progress, completion, or blockers, even if the user is not actively interacting with the system.
-* ### Specification Concept 2: 
+
+## Specification  Concepts
+
+### Specification Concept 1: 
+A method for managing long-running tasks across multiple AI agents, including:
+* Task delegation to an agent or set of agents.
+* Proactive notifications to inform the user of task progress, completion, or blockers, even if the user is not actively interacting with the system.
+* 
+### Specification Concept 2: 
 The method of Invention Concept 1, wherein notifications can trigger specific actions, such as reassigning tasks, adding context, or approving the next steps in the process.
-## SpecificationAsynchronous Task & Notification: A Method for Long-Running Task Management
-### DescriptionThis system is designed to handle tasks that require a significant amount of time or do not require an immediate response from the user. It functions by decoupling the task initiation from the user's active session. An agent or group of agents is delegated a long-running task, and the system provides a persistent, trackable ID for that task. The user is then freed from the waiting state and is notified of progress or completion through proactive, push-based notifications. This system ensures that the platform remains responsive and can handle complex, multi-stage tasks without tying up the user's interface. It also includes a mechanism for the user to provide new input or trigger a specific action based on a notification, creating a seamless and efficient workflow.
-### Example Use CaseA user provides the query: "Analyze all the recent market data for the last quarter and provide a detailed report on trends." The system processes this request and performs the following actions:* The Orchestration Engine identifies this as a long-running task.* It delegates the task to a Financial Analyst Agent.* The user is immediately notified that the report has been initiated and will be provided asynchronously.* While the agent is working, the user closes the chat window and continues with other work.* Two hours later, the Financial Analyst Agent completes the report.* The system sends a push notification to the user's device that the report is complete and available.## Pseudocode
+
+## Specification
+Asynchronous Task & Notification: A Method for Long-Running Task Management
+
+### Description
+This system is designed to handle tasks that require a significant amount of time or do not require an immediate response from the user. It functions by decoupling the task initiation from the user's active session. An agent or group of agents is delegated a long-running task, and the system provides a persistent, trackable ID for that task. The user is then freed from the waiting state and is notified of progress or completion through proactive, push-based notifications. This system ensures that the platform remains responsive and can handle complex, multi-stage tasks without tying up the user's interface. It also includes a mechanism for the user to provide new input or trigger a specific action based on a notification, creating a seamless and efficient workflow.
+
+### Example Use Case
+A user provides the query: "Analyze all the recent market data for the last quarter and provide a detailed report on trends." The system processes this request and performs the following actions:
+* The Orchestration Engine identifies this as a long-running task.
+* It delegates the task to a Financial Analyst Agent.
+* The user is immediately notified that the report has been initiated and will be provided asynchronously.
+* While the agent is working, the user closes the chat window and continues with other work.
+* Two hours later, the Financial Analyst Agent completes the report.
+* The system sends a push notification to the user's device that the report is complete and available.
+
+## Pseudocode
 Non-normative conceptual illustration
 Mirrors the logical flow from Specification 5: Asynchronous Task & Notification
 Implementation-defined aspects are marked with comments
@@ -201,4 +220,5 @@ FUNCTION getTaskStatus(taskID):
 
 
 
-
+
+
