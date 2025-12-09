@@ -12,12 +12,11 @@ ILETP is an inter-LLM coordination platform that treats divergence as a **featur
 
 
 ## ILTEP Core Features
-- The Platform ensures that multiple independent LLMs can collaborate, evaluate each other, and reach accountable conclusions.
+- Ensures multiple independent LLMs collaborate, evaluate each other, and reach trustworthy, auditable conclusions.
 - Empowers user agency with real-time trust scores and escalation guidance; you decide when to trust AI vs. seek human expertise.
-- Its vendor-neutral, open and agnostic design ensures compatibility with all major models and deployment methods.
+- Vendor-neutral, open, and model-agnostic design ensures compatibility with all major LLMs and deployment methods.
 
 ## Why Open Source
-
 The problems addressed here, validation, trust, divergence, and diagnostics are not proprietary challenges. They are industry-wide challenges.
 
 Open sourcing this work:
@@ -28,14 +27,13 @@ Open sourcing this work:
 - supports safety and transparency goals  
 - enables extensions and integrations by the broader community  
 
-ILETP is an open platform, not a product. This tool is one example of what can be built on top of it.
+ILETP is an open platform, not a product.
 
   
 ## Example Usage
 Several example use cases and an expanded use case concept are included in the repo.  
 
 ## How to Contribute
-
 We welcome help! If you want to contribute:
 
 1. Read CONTRIBUTING.md and CODE_OF_CONDUCT.md.  
@@ -48,7 +46,6 @@ We welcome help! If you want to contribute:
 - For direct contact: peter@iletp.org.
 
 ## Licensing
-
 This repository uses two licenses:
 
 - Code (source files): Apache License, Version 2.0 — see `LICENSE` in the repository root.
