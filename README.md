@@ -11,6 +11,18 @@ ILETP is an inter-LLM coordination platform that treats divergence as a **featur
 </p>
 
 
+## Core Features
+- Feature 1 — short benefit-focused sentence
+- Feature 2 — short benefit-focused sentence
+- Feature 3 — short benefit-focused sentence
+
+## Who It's For
+- Example persona 1 (e.g., caregivers who need...)
+- Example persona 2 (e.g., small teams who want...)
+
+## Example Usage
+Several use cases and a exapnded use case concept are included in the repo
+
 ## How to Contribute
 
 We welcome help! If you want to contribute:
