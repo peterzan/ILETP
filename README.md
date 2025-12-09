@@ -63,4 +63,7 @@ Notes:
 - GitHub may not show both licenses in the UI; this section is the canonical explanation for visitors.
 
 ## Finally...
-This entire repository is a **starting point**, not the end game.  The idea of ILETP and how it can help improve acceptance and use of AI, as well as its benefit for all of us is the point.  Everything else here is open to evolution; nothing is untouchable.  The "tools" are here for you to take, share, and create.  Make something great!
+This entire repository is a **starting point**, not the end game.  The idea of ILETP, and how it can improve trustworthiness of AI so it benefits all of us is the point.  Everything else here is open to evolution; nothing is untouchable.  The "tools" are here for you to take, share, and create.  Make something great!
+
+
+
