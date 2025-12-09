@@ -10,8 +10,7 @@ Artificial Intelligence has reached a structural inflection point. Regulatory de
 
 This white paper presents **Inter‑LLM Ensemble Trust Platform (ILETP™)**: an open, neutral, sovereignty‑respecting architecture designed to provide **trustworthiness through accountability**. ILETP is not a model, agent, or product. It is an *inter‑model accountability layer*, a set of specifications, protocols, and verification pipelines that ensure AI systems composed of multiple models behave reliably, transparently, and reproducibly.
 
-Monolithic systems can only assert correctness.  
-**Inter-model ensembles can prove it.**
+Monolithic systems can only assert correctness.  **Inter-model ensembles can prove it.**
 
 ILETP provides the structure required to verify reasoning, capture dissent, quantify consensus, preserve provenance, and ensure that outputs from multi-agent, multi-model systems meet regulatory and enterprise expectations.
 
