@@ -23,7 +23,7 @@ ILETP is an inter-LLM coordination platform that treats divergence as a **featur
   
 
 ## Example Usage
-Several use cases and a exapnded use case concept are included in the repo
+Several use cases and an expanded use case concept are included in the repo
 
 ## How to Contribute
 
