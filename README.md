@@ -31,7 +31,7 @@ ILETP is an open platform, not a product.
 
   
 ## Example Usage
-Several example use cases and an expanded use case concept are included in the repo.  These use cases are far from the only soutions that can be built by leveraging ILETP.
+Several example use cases and an expanded use case concept are included in the repo.  These use cases are far from the only solutions that can be built by leveraging ILETP.
 
 ## How to Contribute
 I welcome help! If you want to contribute:
@@ -40,7 +40,7 @@ I welcome help! If you want to contribute:
 2. Look for issues labeled "good first issue" or "help wanted".  
 3. Open a new issue to discuss larger changes before starting.
 
-NOTE: I'm not looking to maintain the Inter-LLM chat application code.  Feel free to fork it and use it as the basis for your experimentation.
+_**NOTE**_: I'm not looking to maintain the Inter-LLM chat application code.  Feel free to fork it and use it as the basis for your experimentation.
 
 ## Support & Contact
 - Open an issue for bugs and feature requests.  
