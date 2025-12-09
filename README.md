@@ -6,7 +6,13 @@ Inter-LLM trust.  With the **user** in control.
 ILETP is an inter-LLM coordination platform that treats divergence as a **feature**, enabling models to interact, critique, and synthesize outputs with trust scoring and context continuity. It’s for people and organizations who need AI they can trust—not just hope is right.
 
 ![inter-ai-chat screenshot](assets/inter-ai-chat-screenshot.png)
-*UI screenshot from preview concept inter-LLM chat application, included in this repo*
+<p align="center">
+  <img src="./assets/onboarding-screenshot.png" alt="Onboarding screen" width="600" />
+  <br />
+  <em>*UI screenshot from preview concept inter-LLM chat application, included in this repo*</em>
+</p>
+
+
 
 ## Licensing
 
