@@ -2,18 +2,34 @@
 <!-- Copyright 2025 Peter Zan. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See LICENSE-CC-BY-4.0.txt in the repository root. -->
 
 # Specification 7: Dynamic Agent Orchestration
-## Specification Concepts
-### Specification Concept 1: 
-A method for dynamically determining the optimal number and selection of AI agents for query processing, based on an analysis of the query's complexity, required confidence level, and domain.
-### Specification Concept 2: 
-The method of Invention Concept 1, wherein the selection of agents is based on a real-time diversity index to ensure a broad range of independent perspectives and reduce correlated errors.
-### Specification Concept 3: 
-The method of Invention Concept 1, wherein a real-time, confidence-weighted consensus protocol provides a quantifiable measure of trustworthiness for the final output and triggers conflict resolution if needed.
-## Specification
 
-### DescriptionDynamic Agent Orchestration: A Resource-Adaptive Multi-Agent Protocol This system addresses the inefficiencies of static multi-agent systems by decoupling the number of participating agents from the system's core architecture. The process begins with a Query Classification Engine that analyzes an incoming query to determine its complexity, domain, and the level of confidence required for the response. This analysis is used to generate a Dynamic Agent Manifest, which specifies the exact number and type of agents required for that specific task.
-The system then initiates parallel or sequential processing of the query by the agents identified in the manifest. As responses are generated, a Confidence-Weighted Consensus protocol aggregates the results. Each agent provides a confidence score for its own output, and the system uses these scores to calculate a final, verifiable trust rating for the overall response. If this final score falls below the required confidence threshold for the query, a conflict resolution protocol is triggered, which may involve re-orchestrating the task with a different group of agents.
-### Example Use CaseA user submits a high-stakes, nuanced query: "Is there any evidence of fraudulent activity in this quarter's financial data?" The system immediately performs the following actions:* The Query Classification Engine analyzes the request and determines it is high-stakes, complex, and requires a confidence threshold of 95% or greater.* The system generates a Dynamic Agent Manifest, selecting five agents with diverse training methodologies, including a financial expert agent and a compliance agent.* Each agent processes the data and provides a response with a real-time confidence score.* The Confidence-Weighted Consensus protocol aggregates the scores and determines that the consensus is 98% confident in the final output, well above the required threshold.* The final, auditable report is delivered to the user with a quantified trust rating.## Pseudocode
+## Specification Concepts
+
+### Specification Concept 1: 
+A method for dynamically determining the optimal number and selection of AI agents for query processing, based on an analysis of the query's complexity, required confidence level, and domain.
+
+### Specification Concept 2: 
+The method of Invention Concept 1, wherein the selection of agents is based on a real-time diversity index to ensure a broad range of independent perspectives and reduce correlated errors.
+
+### Specification Concept 3: 
+The method of Invention Concept 1, wherein a real-time, confidence-weighted consensus protocol provides a quantifiable measure of trustworthiness for the final output and triggers conflict resolution if needed.
+
+## Specification
+
+### Description
+Dynamic Agent Orchestration: A Resource-Adaptive Multi-Agent Protocol This system addresses the inefficiencies of static multi-agent systems by decoupling the number of participating agents from the system's core architecture. The process begins with a Query Classification Engine that analyzes an incoming query to determine its complexity, domain, and the level of confidence required for the response. This analysis is used to generate a Dynamic Agent Manifest, which specifies the exact number and type of agents required for that specific task.
+
+The system then initiates parallel or sequential processing of the query by the agents identified in the manifest. As responses are generated, a Confidence-Weighted Consensus protocol aggregates the results. Each agent provides a confidence score for its own output, and the system uses these scores to calculate a final, verifiable trust rating for the overall response. If this final score falls below the required confidence threshold for the query, a conflict resolution protocol is triggered, which may involve re-orchestrating the task with a different group of agents.
+
+### Example Use Case
+A user submits a high-stakes, nuanced query: "Is there any evidence of fraudulent activity in this quarter's financial data?" The system immediately performs the following actions:
+* The Query Classification Engine analyzes the request and determines it is high-stakes, complex, and requires a confidence threshold of 95% or greater.
+* The system generates a Dynamic Agent Manifest, selecting five agents with diverse training methodologies, including a financial expert agent and a compliance agent.
+* Each agent processes the data and provides a response with a real-time confidence score.
+* The Confidence-Weighted Consensus protocol aggregates the scores and determines that the consensus is 98% confident in the final output, well above the required threshold.
+* The final, auditable report is delivered to the user with a quantified trust rating.
+
+## Pseudocode
 Non-normative conceptual illustration
 Mirrors the logical flow from Specification 7: Dynamic Agent Orchestration
 Implementation-defined aspects are marked with comments
@@ -208,4 +224,6 @@ FUNCTION initiateConflictResolution(query, analysis, responses, consensus):
 END FUNCTION
 ```
 
-
+
+
+
