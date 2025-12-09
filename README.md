@@ -40,7 +40,7 @@ I welcome help! If you want to contribute:
 2. Look for issues labeled "good first issue" or "help wanted".  
 3. Open a new issue to discuss larger changes before starting.
 
-_**NOTE**_: I'm not looking to maintain the Inter-LLM chat application code.  Feel free to fork it and use it as the basis for your experimentation.
+_**NOTE**_: I will not be maintaining the Inter-LLM chat application code.  Feel free to fork it and use it as the basis for your experimentation.
 
 ## Support & Contact
 - Open an issue for bugs and feature requests.  
