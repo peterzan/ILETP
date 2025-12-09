@@ -1,5 +1,7 @@
 # Inter-LLM Ensemble Trust Platform (ILETP™)
 
+![inter-ai-chat screenshot](assets/inter-ai-chat-screenshot.png)
+
 
 ## Licensing
 
