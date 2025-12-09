@@ -2,15 +2,30 @@
 <!-- Copyright 2025 Peter Zan. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See LICENSE-CC-BY-4.0.txt in the repository root. -->
 
 # Specification 3: Cross-Agent Collaboration & API
-## Specification Concepts
-### Concept 1: 
-A standardized API enabling multi-agent collaboration, where agents assume distinct roles (e.g., "researcher," "analyst," "validator") and interact through structured protocols to complete a task.
-### Concept 2: 
-The method of Invention Concept 1, wherein the collaboration between agents is transparent, traceable, and auditable, and tasks are handed off between agents based on their role-specific capabilities.
-## SpecificationThe Cross-Agent Collaboration System: A Method for Inter-Agent CommunicationTechnical Description
 
-### DescriptionThe Cross-Agent Collaboration System is a defined protocol that governs how individual agents interact with one another to solve complex, multi-faceted problems. While the Orchestration Engine provides the initial task assignment, this system describes how agents can autonomously communicate and exchange information without constantly routing everything back through the central engine. This allows for more efficient, fluid, and complex problem-solving. The system defines rules for data handoffs, task dependencies, and the asynchronous and synchronous exchange of information between agents. This Invention focuses on the specific methods and protocols that enable a team of agents to work together like a well-oiled machine.
-### Example Use CaseA user asks a complex query that requires information from two different databases.* The Orchestration Engine assigns an Agent A to query Database X and an Agent B to query Database Y.* Agent A completes its task first and, using the defined collaboration protocol, sends its raw data directly to Agent B.* Agent B receives the data from Agent A and, using the combined information from both databases, can now complete its own task of synthesizing a full report.* The final report is sent to the Orchestration Engine, which then presents it to the user.## Pseudocode
+## Specification Concepts
+
+### Concept 1: 
+A standardized API enabling multi-agent collaboration, where agents assume distinct roles (e.g., "researcher," "analyst," "validator") and interact through structured protocols to complete a task.
+
+### Concept 2: 
+The method of Invention Concept 1, wherein the collaboration between agents is transparent, traceable, and auditable, and tasks are handed off between agents based on their role-specific capabilities.
+
+## Specification
+The Cross-Agent Collaboration System: A Method for Inter-Agent Communication
+Technical Description
+
+### Description
+The Cross-Agent Collaboration System is a defined protocol that governs how individual agents interact with one another to solve complex, multi-faceted problems. While the Orchestration Engine provides the initial task assignment, this system describes how agents can autonomously communicate and exchange information without constantly routing everything back through the central engine. This allows for more efficient, fluid, and complex problem-solving. The system defines rules for data handoffs, task dependencies, and the asynchronous and synchronous exchange of information between agents. This Invention focuses on the specific methods and protocols that enable a team of agents to work together like a well-oiled machine.
+
+### Example Use Case
+A user asks a complex query that requires information from two different databases.
+* The Orchestration Engine assigns an Agent A to query Database X and an Agent B to query Database Y.
+* Agent A completes its task first and, using the defined collaboration protocol, sends its raw data directly to Agent B.
+* Agent B receives the data from Agent A and, using the combined information from both databases, can now complete its own task of synthesizing a full report.
+* The final report is sent to the Orchestration Engine, which then presents it to the user.
+
+## Pseudocode
 Non-normative conceptual illustration
 Mirrors the logical flow from Specification 3:Cross-Agent Collaboration & API
 Implementation-defined aspects are marked with comments
