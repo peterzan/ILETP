@@ -2,16 +2,30 @@
 <!-- Copyright 2025 Peter Zan. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See LICENSE-CC-BY-4.0.txt in the repository root. -->
 
 # Specification 6: Cross-Instance Context Federation
-## Specification Concepts
-### Specification Concept 1: 
-A method for synchronizing context data across multiple, disconnected instances of AI systems, ensuring that a unified context is maintained across all AI-enabled devices and systems, including:* Robotics: Synchronizing the robot's context across its on-board sensors, the human controller's interface, and any remote monitoring system.* Multi-Device AI: Allowing seamless continuation of user interactions across various devices (e.g., phone, laptop, smart speaker).
-### Specification Concept 2: 
+
+## Specification Concepts
+
+### Specification Concept 1: 
+A method for synchronizing context data across multiple, disconnected instances of AI systems, ensuring that a unified context is maintained across all AI-enabled devices and systems, including:
+* Robotics: Synchronizing the robot's context across its on-board sensors, the human controller's interface, and any remote monitoring system.
+* Multi-Device AI: Allowing seamless continuation of user interactions across various devices (e.g., phone, laptop, smart speaker).
+
+### Specification Concept 2: 
 The method of Invention Concept 1, wherein the unified context is accessible across different platforms and devices, ensuring consistent, transparent decision-making and action by the AI system in real-time.
-### Specification Concept 3: 
+
+### Specification Concept 3: 
 The method of Invention Concept 1, wherein the synchronization of context data is applicable to autonomous systems, ensuring that each instance (robot, vehicle, sensor) has access to the same operational context, and preventing discrepancies in the execution of commands.
-## SpecificationCross-Instance Context Federation: A Method for Unified Context Synchronization
-### DescriptionThis system is designed to solve the challenge of maintaining a consistent and unified operational context across multiple, potentially disconnected, instances of an AI system. It creates a federated data layer that synchronizes key contextual information, ensuring that every device or instance has access to the same up-to-date information. This is critical for applications involving robotics, autonomous systems, and multi-device user experiences. The system utilizes a lightweight, real-time synchronization protocol to prevent data discrepancies and ensure that decisions made by one instance are informed by the entire collective context. This provides a transparent and robust foundation for real-time collaboration and execution.
-### Example Use CaseA user begins a task on their laptop to research a recipe. The Orchestration Engine creates a session and begins collecting data. The user then moves to the kitchen and asks a smart speaker for the recipe they were just researching. The Cross-Instance Context Federation system ensures that the smart speaker (a new instance) can access the exact same session context that was created on the laptop. The smart speaker can seamlessly continue the conversation, knowing exactly where the user left off. This prevents the user from having to re-explain their request. For a robotics use case, this system ensures that multiple robots working in a factory have the same real-time operational context, allowing them to collaborate without conflicting commands or redundant tasks.## Pseudocode
+
+## Specification
+Cross-Instance Context Federation: A Method for Unified Context Synchronization
+
+### Description
+This system is designed to solve the challenge of maintaining a consistent and unified operational context across multiple, potentially disconnected, instances of an AI system. It creates a federated data layer that synchronizes key contextual information, ensuring that every device or instance has access to the same up-to-date information. This is critical for applications involving robotics, autonomous systems, and multi-device user experiences. The system utilizes a lightweight, real-time synchronization protocol to prevent data discrepancies and ensure that decisions made by one instance are informed by the entire collective context. This provides a transparent and robust foundation for real-time collaboration and execution.
+
+### Example Use Case
+A user begins a task on their laptop to research a recipe. The Orchestration Engine creates a session and begins collecting data. The user then moves to the kitchen and asks a smart speaker for the recipe they were just researching. The Cross-Instance Context Federation system ensures that the smart speaker (a new instance) can access the exact same session context that was created on the laptop. The smart speaker can seamlessly continue the conversation, knowing exactly where the user left off. This prevents the user from having to re-explain their request. For a robotics use case, this system ensures that multiple robots working in a factory have the same real-time operational context, allowing them to collaborate without conflicting commands or redundant tasks.
+
+## Pseudocode
 Non-normative conceptual illustration
 Mirrors the logical flow from Specification 6: Cross-Instance Context Federation
 Implementation-defined aspects are marked with comments
@@ -387,4 +401,5 @@ FUNCTION compressPayload(payload, capabilities):
 
 
 
-
+
+
