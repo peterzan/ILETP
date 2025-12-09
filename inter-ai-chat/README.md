@@ -5,7 +5,7 @@
 
 This is a native macOS application enabling true inter-AI collaboration across leading AI models from different companies. This platform allows users to conduct group conversations where one or multiple (up to five in this example) AI assistants can see, reference, and build upon each other's responses.
 
-This folder contains sample code for an inter-AI, deployment agnostic chat platform. It is intended as a **starting point for your own projects and learning**, rather than a full-featured, actively maintained application.
+This folder contains code for an inter-AI, deployment agnostic platform proof-of-concept presented as a chat application. It is intended as a **starting point for your own projects and learning**, rather than a full-featured, actively maintained platform.  As a proof-of-concept the application simulates ILETP Specification 1, The Orchestration Engine - in this case a human (me, and you), and Specification 3, Cross-Agent Collaboration & API.  The complete ILETP specifications can be found in **ILETP/ ILETP Specifications.**
 
 ## Overview
 
