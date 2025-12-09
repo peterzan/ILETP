@@ -9,6 +9,7 @@ ILETP is an inter-LLM coordination platform that treats divergence as a **featur
 <p align="center">
   <em>UI screenshot from preview concept inter-LLM chat application, included in this repo</em>
 </p>
+## 
 
 
 ## Core Features
