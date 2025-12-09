@@ -20,6 +20,10 @@ We welcome help! If you want to contribute:
 3. Open a new issue to discuss larger changes before starting.
 
 
+## Support & contact
+- Open an issue for bugs and feature requests.  
+- For direct contact: peter@iletp.org.
+
 ## Licensing
 
 This repository uses two licenses:
