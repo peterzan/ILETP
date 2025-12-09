@@ -2,16 +2,28 @@
 <!-- Copyright 2025 Peter Zan. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See LICENSE-CC-BY-4.0.txt in the repository root. -->
 
 # Specification 4: Session Recovery Protocol
-## Specification Concepts
-### Specification Concept 1: 
+
+## Specification Concepts
+
+### Specification Concept 1: 
 A method for managing an AI system's session state to prevent data loss or a break in the user experience, including a Session Recovery Protocol.
-### Specification Concept 2: 
+
+### Specification Concept 2: 
 The method of Invention Concept 1, wherein the protocol automatically saves the session state to a persistent storage medium at predefined intervals or upon a significant event.
-### Specification Concept 3: 
+
+### Specification Concept 3: 
 The method of Invention Concept 1, wherein the protocol includes a mechanism for prompting the user for clarification or action before resuming the session, ensuring a seamless and contextual continuation of the interaction.
-## SpecificationThe Session Recovery Protocol: A System for Resuming AI Sessions
-### DescriptionThis system is designed to handle interruptions to an active user session, whether due to a system crash, network outage, or user-driven disconnection. It operates by periodically saving the session state (e.g., chat history, contextual data, active tasks) to a persistent store. If an interruption occurs, the system can, upon the user's return, retrieve the last known state and seamlessly resume the interaction. The protocol includes a decision-making layer that can prompt the user for clarification or simply resume the session based on a calculated "confidence score" of the recovered state, ensuring a smooth and intelligent recovery.
-### Example Use CaseA user is in the middle of a complex research task when their browser crashes. The Orchestration Engine detects the interruption and triggers the Session Recovery Protocol. When the user re-opens the application, they are greeted with a prompt asking if they would like to resume their previous session. Upon confirmation, the system restores the conversation and the active tasks exactly where they left off, without the user needing to re-enter information. This prevents user frustration and ensures continuity of the workflow.## Pseudocode
+
+## Specification
+The Session Recovery Protocol: A System for Resuming AI Sessions
+
+### Description
+This system is designed to handle interruptions to an active user session, whether due to a system crash, network outage, or user-driven disconnection. It operates by periodically saving the session state (e.g., chat history, contextual data, active tasks) to a persistent store. If an interruption occurs, the system can, upon the user's return, retrieve the last known state and seamlessly resume the interaction. The protocol includes a decision-making layer that can prompt the user for clarification or simply resume the session based on a calculated "confidence score" of the recovered state, ensuring a smooth and intelligent recovery.
+
+### Example Use Case
+A user is in the middle of a complex research task when their browser crashes. The Orchestration Engine detects the interruption and triggers the Session Recovery Protocol. When the user re-opens the application, they are greeted with a prompt asking if they would like to resume their previous session. Upon confirmation, the system restores the conversation and the active tasks exactly where they left off, without the user needing to re-enter information. This prevents user frustration and ensures continuity of the workflow.
+
+## Pseudocode
 Non-normative conceptual illustration
 Mirrors the logical flow from Specification 4: Session Recovery Protocol
 Implementation-defined aspects are marked with comments
