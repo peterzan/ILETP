@@ -27,7 +27,7 @@ This turns AI from something people are cautious about into something they can c
 ---
 
 # ILETP – Ten Specifications Explained in Plain Language
-Each Specification is described in simple terms so that anyone, technical or not can quickly understand what it does and why it matters.  Detailed ILETP specifications found eslewhere in **ILETP/ILETP Specifications** provide more information on these specifications.
+Each Specification is described in simple terms so that anyone, technical or not can quickly understand what it does and why it matters.  Detailed ILETP specifications found in **ILETP/ILETP Specifications** provide more information on these specifications.
 
 ## Specification 1 – The Orchestration Engine
 Think of this as the 'conductor of the orchestra.' It makes different AI systems work together on a single task, making sure each contributes its strengths to produce a more reliable answer.
@@ -58,6 +58,7 @@ This specification makes sure sensitive information stays protected when multipl
 
 ## Specification 10 – Multi-Agent Ideation Synthesis
 This takes all the conversations and brainstorming from multiple AI systems and blends them into one clear, searchable knowledge base. It’s like combining all meeting notes from different teams into one easy-to-read playbook.
+
 
 
 
