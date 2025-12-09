@@ -6,7 +6,10 @@
 ## Specification Concepts
 
 ### Concept 1:
-A method for generating a trust score for an AI system's output based on the consensus of multiple independent agents, including:* Agent agreement and dissent on the output.* Weighting of trust based on the agent's historical performance and confidence level.* Auditability and traceability of the reasoning behind the score.
+A method for generating a trust score for an AI system's output based on the consensus of multiple independent agents, including:
+* Agent agreement and dissent on the output.
+* Weighting of trust based on the agent's historical performance and confidence level.
+* Auditability and traceability of the reasoning behind the score.
 
 ### Concept 2:
 The method of Concept 1, wherein the trust score is used as a safety metric, ensuring that high-stakes decisions (e.g., robotic actions, autonomous vehicle navigation) are only made when the trust score reaches a defined threshold.
@@ -18,7 +21,11 @@ The Trust and Consensus Protocol: A System for Verifying Collective Information
 The Trust and Security Core is an essential module designed to validate the reliability, accuracy, and safety of the information processed by the system. Instead of relying on a single agent's output, this module evaluates the collective responses from all contributing agents. It calculates a dynamic trust score based on a predefined methodology that considers factors such as agent-reported confidence, consistency between multiple agent responses, adherence to a security protocol (e.g., a "disallowed terms" list), and the source of the data. This trust score is a crucial gatekeeper, determining whether information can be presented to the user or if further action, such as a recovery protocol, is required.
 
 ### Example Use Case
-A user asks for information on a highly controversial historical event. Three different agents are assigned the task.* Agent A provides a response with a high confidence score, but its content is flagged by the security protocol for using potentially biased language.* Agent B provides a response with a low confidence score and references an unreliable source.* Agent C provides a response with a moderate confidence score and references a well-known academic source.The Trust and Security Core evaluates these three responses, notes the conflicts, and calculates a collective trust score below the acceptable threshold. As a result, the information is not presented to the user, and the Session Recovery Protocol is triggered.
+A user asks for information on a highly controversial historical event. Three different agents are assigned the task.
+* Agent A provides a response with a high confidence score, but its content is flagged by the security protocol for using potentially biased language.
+* Agent B provides a response with a low confidence score and references an unreliable source.
+* Agent C provides a response with a moderate confidence score and references a well-known academic source.
+The Trust and Security Core evaluates these three responses, notes the conflicts, and calculates a collective trust score below the acceptable threshold. As a result, the information is not presented to the user, and the Session Recovery Protocol is triggered.
 
 ## Pseudocode
 Non-normative conceptual illustration
