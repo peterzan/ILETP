@@ -3,27 +3,36 @@
 
 Inter-LLM trust.  With the _**user**_ in control.
 
-ILETP is an inter-LLM coordination platform that treats divergence as a **feature**, enabling models to interact, critique, and synthesize outputs with trust scoring and context continuity. It’s for people and organizations who need AI they can trust—not just hope is right.
+ILETP is an inter-LLM coordination platform that treats divergence as a **feature**, enabling models to interact, critique, and synthesize outputs with trust scoring and context continuity. It’s for people and organizations who need AI they can trust, not just hope, is right.
 
 ![inter-ai-chat screenshot](assets/inter-ai-chat-screenshot.png)
 <p align="center">
-  <em>UI screenshot from preview concept inter-LLM chat application, code included in this repo</em>
+  <em>UI screenshot from preview inter-LLM chat application.  Code is included in this repo</em>
 </p>
 
 
-## Core Features
-- Feature 1 — short benefit-focused sentence
-- Feature 2 — short benefit-focused sentence
-- Feature 3 — short benefit-focused sentence
-- 
+## ILTEP Core Features
+- The Platform ensures that multiple independent LLMs can collaborate, evaluate each other, and reach accountable conclusions.
+- Empowers user agency with real-time trust scores and escalation guidance—you decide when to trust AI vs. seek human expertise.
+- Its vendor-neutral, deployment agnostic design ensures compatibility with all major models.
 
-## Who It's For
-- Example persona 1 (e.g., caregivers who need...)
-- Example persona 2 (e.g., small teams who want...)
+## Why Open Source
+
+The problems addressed here, validation, trust, divergence, and diagnostics are not proprietary challenges. They are industry-wide challenges.
+
+Open sourcing this work:
+
+- prevents vendor lock-in  
+- establishes public prior art  
+- encourages experimentation and collaboration  
+- supports safety and transparency goals  
+- enables extensions and integrations by the broader community  
+
+ILETP is an open platform, not a product. This tool is one example of what can be built on top of it.
+
   
-
 ## Example Usage
-Several use cases and an expanded use case concept are included in the repo
+Several example use cases and an expanded use case concept are included in the repo.  
 
 ## How to Contribute
 
