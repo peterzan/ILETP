@@ -12,11 +12,11 @@ The Inter-LLM Ensemble Trust PLatform (ILETP) is like a “control center” for
 Right now, AI works like a single black box—you ask, it answers, and you have no idea if the answer is right or wrong. That creates big risks in fields like healthcare, finance, law, or government, where mistakes can be costly. People hesitate to trust AI because there’s no way to doublecheck or explain the results.
 
 ## ILETP solves this problem by:
-•	Cross-checking answers from multiple AIs to catch errors.
-•	Scoring trust so **you** know how reliable a response is.
-•	Keeping an audit trail so results can be traced and explained.
-•	Preserving independence so each AI provides a unique viewpoint.
-•	Protecting privacy so sensitive data stays safe while AIs work together.
+- Cross-checking answers from multiple AIs to catch errors.
+- Scoring trust so **you** know how reliable a response is.
+- Keeping an audit trail so results can be traced and explained.
+- Preserving independence so each AI provides a unique viewpoint.
+- Protecting privacy so sensitive data stays safe while AIs work together.
 
 ## The Big Picture
 
@@ -58,6 +58,7 @@ This specification makes sure sensitive information stays protected when multipl
 
 ## Specification 10 – Multi-Agent Ideation Synthesis
 This takes all the conversations and brainstorming from multiple AI systems and blends them into one clear, searchable knowledge base. It’s like combining all meeting notes from different teams into one easy-to-read playbook.
+
 
 
 
