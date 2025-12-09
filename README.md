@@ -1,5 +1,5 @@
 # Inter-LLM Ensemble Trust Platform (ILETP™)
-[![Release](https://img.shields.io/badge/release-v0.1.0-blue)](https://github.com/OWNER/REPO/releases) ![License](https://img.shields.io/badge/license-Apache 2.0-lightgrey)
+[![Release](https://img.shields.io/badge/release-v0.1.0-blue)](https://github.com/OWNER/REPO/releases) ![License](https://img.shields.io/badge/license-Apache-2.0-lightgrey)
 
 
 ![inter-ai-chat screenshot](assets/inter-ai-chat-screenshot.png)
