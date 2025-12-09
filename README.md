@@ -11,7 +11,7 @@ ILETP is an inter-LLM coordination platform that treats divergence as a **featur
 </p>
 
 
-## ILTEP Core Features
+## ILETP Core Features
 - Ensures multiple independent LLMs collaborate, evaluate each other, and reach trustworthy, auditable conclusions.
 - Empowers user agency with real-time trust scores and escalation guidance; you decide when to trust AI vs. seek human expertise.
 - Vendor-neutral, open, and model-agnostic design ensures compatibility with all major LLMs and deployment methods.
@@ -31,15 +31,16 @@ ILETP is an open platform, not a product.
 
   
 ## Example Usage
-Several example use cases and an expanded use case concept are included in the repo.  
+Several example use cases and an expanded use case concept are included in the repo.  These use cases are far from the only soutions that can be built by leveraging ILETP.
 
 ## How to Contribute
-We welcome help! If you want to contribute:
+I welcome help! If you want to contribute:
 
 1. Read CONTRIBUTING.md and CODE_OF_CONDUCT.md.  
 2. Look for issues labeled "good first issue" or "help wanted".  
 3. Open a new issue to discuss larger changes before starting.
 
+NOTE: I'm not looking to maintain the Inter-LLM chat application code.  Feel free to fork it and use it as the basis for your experimentation.
 
 ## Support & Contact
 - Open an issue for bugs and feature requests.  
