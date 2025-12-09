@@ -14,7 +14,7 @@ ILETP is an inter-LLM coordination platform that treats divergence as a **featur
 ## ILTEP Core Features
 - The Platform ensures that multiple independent LLMs can collaborate, evaluate each other, and reach accountable conclusions.
 - Empowers user agency with real-time trust scores and escalation guidance; you decide when to trust AI vs. seek human expertise.
-- Its vendor-neutral, deployment agnostic design ensures compatibility with all major models.
+- Its vendor-neutral, open and agnostic design ensures compatibility with all major models and deployment methods.
 
 ## Why Open Source
 
