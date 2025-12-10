@@ -31,9 +31,7 @@ ILETP is an open platform, not a product.
 
 ## Quick Start (This is a starter kit — you're encouraged to fork it)
 
-ILETP includes example code for an inter-LLM chat interface and orchestration layer.  
-**This project is offered as a foundation for others to explore and build on.**  
-I am *not* actively maintaining feature updates at this time.
+ILETP includes example code for an inter-LLM chat interface and orchestration layer.  **This project is offered as a foundation for others to explore and build on.**  I am *not* actively maintaining feature updates at this time.
 
 ### How to begin:
 
