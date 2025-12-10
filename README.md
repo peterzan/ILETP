@@ -18,7 +18,7 @@ Current AI tools force users to:
 - Accept "black box" decisions with no transparency
 - Choose between providers with no comparison
 
-**ILETP solves this** by enabling multi-model collaboration with built-in trust scoring and full transparency.
+**ILETP solves this** by enabling inter-model collaboration with built-in trust scoring and full transparency.
 
 
 ## ILETP Core Features
