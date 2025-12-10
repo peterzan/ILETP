@@ -29,7 +29,23 @@ Open sourcing this work:
 
 ILETP is an open platform, not a product.
 
-  
+## Quick Start (This is a starter kit — you're encouraged to fork it)
+
+ILETP includes example code for an inter-LLM chat interface and orchestration layer.  
+**This project is offered as a foundation for others to explore and build on.**  
+I am *not* actively maintaining feature updates at this time.
+
+### How to begin:
+
+1. **Fork this repo** — recommended for your own exploration and extensions  
+2. Clone your fork and open the Xcode project  
+3. Add API keys (Anthropic, OpenAI, Google, Mistral, optional local Llama via Ollama)  
+4. Run the app and start experimenting with multi-LLM conversations  
+5. Modify freely — forks, rewrites, and totally new directions are welcome
+
+This repo is meant to be forked.  Think of it as a foundation, not a finished product — explore, adapt, extend.  If you create something interesting, I'd love to hear about it — but there is no expectation or requirement to contribute back upstream.
+
+ 
 ## Example Usage
 Several example use cases and an expanded use case concept are included in the repo.  These use cases are far from the only solutions that can be built by leveraging ILETP.
 
