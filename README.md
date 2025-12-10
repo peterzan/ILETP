@@ -26,6 +26,14 @@ Current AI tools force users to:
 - Empowers user agency with real-time trust scores and escalation guidance; you decide when to trust AI vs. seek human expertise.
 - Vendor-neutral, open, and model-agnostic design ensures compatibility with all major LLMs and deployment methods.
 
+
+## ILETP Development Provenance
+
+The included proof-of-concept or "preview" application was built entirely through AI-directed development, a collaborative process between a human product manager (me) and Claude (Anthropic),embedded in Xcode 26.0.1.  Without Swift coding expertise, I provided requirements and design decisions while Claude proposed implementation strategies, refined the architecture, and wrote code, while we both debugged issues. This resulted in a functional inter-LLM chat application in approximately 24 hours of active development time.
+
+The broader ILETP platform specifications and protocols (detailed in **/ILETP Specifications**) were developed through collaborative discussions with multiple AI models including Claude, ChatGPT (OpenAI), Gemini (Google), and Copilot (Microsoft).
+
+
 ## Why Open Source
 The problems addressed here, validation, trust, divergence, and diagnostics are not proprietary challenges. They are industry-wide challenges.
 
@@ -55,7 +63,7 @@ This repo is meant to be forked.  Think of it as a foundation, not a finished pr
 
  
 ## Example Usage
-Several example use cases and an expanded use case concept are included in the repo.  These use cases are far from the only solutions that can be built by leveraging ILETP.
+Several example use cases (detailed in **/use-cases**) and an expanded use case (detailed in **/ILETP_UseCase_Test Tool Specs**) concept are included in the repo. These use cases are far from the only solutions that can be built by leveraging ILETP.
 
 ## How to Contribute
 I welcome help! If you want to contribute:
@@ -87,7 +95,11 @@ Notes:
 - GitHub may not show both licenses in the UI; this section is the canonical explanation for visitors.
 
 ## Finally...
-This entire repository is a **starting point**, not the end game.  The idea of ILETP, and how it can improve trustworthiness of AI so it benefits all of us is the point.  Everything else here is open to evolution; nothing is untouchable.  The "tools" are here for you to take, share, and create.  Make something great!
+This repository is a **living experiment** in trustworthy AI coordination. Everything here, code and docs, are intended to be **forked, extended, and improved**. If you build something interesting, evolve the specifications, or even build something on top of ILETP, I'd love to hear about it (open an issue or email peter@iletp.org).
+
+**The goal isn't to create the "perfect" AI platform—it's to start a conversation about how we build AI systems that users can actually trust.**
+
+Go make something great. 🚀
 
 
 
