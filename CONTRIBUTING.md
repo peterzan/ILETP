@@ -21,7 +21,7 @@ This project is in its early "seed" phase — ideas, discussions, frameworks, an
 
 - Assume positive intent.
 - Challenge ideas, not people.
-- Specs evolve over time — nothing is final.
+- Items will evolve over time, although not necessarily maintained/updated by me — nothing is final.
 - Diversity of perspective = strength.
 
 ## Before submitting a PR
