@@ -6,7 +6,7 @@ This project is in its early "seed" phase — ideas, discussions, frameworks, an
 ## How to Contribute
 
 1. Start a discussion or open an Issue for ideas or questions.
-2. Submit Pull Requests for improvements to docs or specs.
+2. Submit Pull Requests for improvements to docs.
 3. Propose use cases, mappings to other frameworks, or design thoughts.
 4. Be constructive, collaborative, and curious.
 
