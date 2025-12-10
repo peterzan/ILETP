@@ -10,6 +10,16 @@ ILETP is an inter-LLM coordination platform that treats divergence as a **featur
   <em>UI screenshot from preview inter-LLM chat application.  Code is included in this repo</em>
 </p>
 
+## The Problem
+
+Current AI tools force users to:
+- Trust single-model outputs without verification
+- Manually copy/paste between different AI interfaces
+- Accept "black box" decisions with no transparency
+- Choose between providers with no comparison
+
+**ILETP solves this** by enabling multi-model collaboration with built-in trust scoring and full transparency.
+
 
 ## ILETP Core Features
 - Ensures multiple independent LLMs collaborate, evaluate each other, and reach trustworthy, auditable conclusions.
