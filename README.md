@@ -5,10 +5,14 @@ Inter-LLM trust.  With the _**user**_ in control.
 
 ILETP is an inter-LLM coordination platform that treats divergence as a **feature**, enabling models to interact, critique, and synthesize outputs with trust scoring and context continuity. It’s for people and organizations who need AI they can trust, not just hope, is right.
 
+---
+
 ![inter-ai-chat screenshot](assets/inter-ai-chat-screenshot.png)
 <p align="center">
   <em>Inter-LLM Chat UI: ChatGPT, Claude, Gemini, Llama and Mistral collaborating in real-time. Built in 24 hours via AI-directed development</em>
 </p>
+
+---
 
 ## The Problem
 
@@ -20,12 +24,14 @@ Current AI tools force users to:
 
 **ILETP solves this** by enabling inter-model collaboration with built-in trust scoring and full transparency.
 
+---
 
 ## ILETP Core Features
 - Ensures multiple independent LLMs collaborate, evaluate each other, and reach trustworthy, auditable conclusions.
 - Empowers user agency with real-time trust scores and escalation guidance; you decide when to trust AI vs. seek human expertise.
 - Vendor-neutral, open, and model-agnostic design ensures compatibility with all major LLMs and deployment methods.
 
+---
 
 ## ILETP Development Provenance
 
@@ -33,6 +39,7 @@ The included proof-of-concept or "preview" application was built entirely throug
 
 The broader ILETP platform specifications and protocols (detailed in **/ILETP Specifications**) were developed through collaborative discussions with multiple AI models including Claude, ChatGPT (OpenAI), Gemini (Google), and Copilot (Microsoft).
 
+---
 
 ## Why Open Source
 The problems addressed here, validation, trust, divergence, and diagnostics are not proprietary challenges. They are industry-wide challenges.
@@ -46,6 +53,8 @@ Open sourcing this work:
 - enables extensions and integrations by the broader community  
 
 ILETP is an open platform, not a product.
+
+---
 
 ## Quick Start (This is a starter kit — you're encouraged to fork it)
 
@@ -61,9 +70,12 @@ ILETP includes example code for an inter-LLM chat interface and orchestration la
 
 This repo is meant to be forked.  Think of it as a foundation, not a finished product — explore, adapt, extend.  If you create something interesting, I'd love to hear about it — but there is no expectation or requirement to contribute back upstream.
 
- 
+---
+
 ## Example Usage
 Several example use cases (detailed in **/use-cases**) and an expanded use case (detailed in **/ILETP_UseCase_Test Tool Specs**) concept are included in the repo. These use cases are far from the only solutions that can be built by leveraging ILETP.
+
+---
 
 ## How to Contribute
 I welcome help! If you want to contribute:
@@ -74,9 +86,13 @@ I welcome help! If you want to contribute:
 
 _**NOTE**_: I will not be maintaining the Inter-LLM chat application code or specifications.  Feel free to fork and use the initial work as the basis for your experimentation.
 
+---
+
 ## Support & Contact
 - Open an issue for bugs and feature requests.  
 - For direct contact: peter@iletp.org.
+
+---
 
 ## Licensing
 This repository uses two licenses:
@@ -93,6 +109,8 @@ Per-file headers:
 Notes:
 - If you fork or reuse content, please keep existing copyright notices and license headers and follow the applicable license terms.
 - GitHub may not show both licenses in the UI; this section is the canonical explanation for visitors.
+
+---
 
 ## Finally...
 This repository is a **living experiment** in trustworthy AI coordination. Everything here, code and docs, are intended to be **forked, extended, and improved**. If you build something interesting, evolve the specifications, or even build something on top of ILETP, I'd love to hear about it (open an issue or email peter@iletp.org).
