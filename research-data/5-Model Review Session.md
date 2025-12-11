@@ -1,3 +1,7 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- Copyright 2025 Peter Zan. Licensed under the Creative Commons Attribution 4.0 International Public License (CC BY 4.0). See LICENSE-CC-BY-4.0.txt in the repository root. -->
+
+
 # ILETP™ 5-Model Review Session — Academic Summary
 
 **Document Type:** Research Artifact  
