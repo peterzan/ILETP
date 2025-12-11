@@ -3,7 +3,7 @@
 
 Inter-LLM trust.  With the _**user**_ in control.
 
-ILETP is an inter-LLM coordination platform that treats divergence as a **feature**, enabling models to interact, critique, and synthesize outputs with trust scoring and context continuity. It’s for people and organizations who need AI they can trust, not just hope, is right.
+ILETP is an inter-LLM coordination platform concept that treats divergence as a **feature**, enabling models to interact, critique, and synthesize outputs with trust scoring and context continuity. It’s for people and organizations who need AI they can trust, not just hope, is right.
 
 ---
 
