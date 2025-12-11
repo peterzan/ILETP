@@ -35,7 +35,7 @@ Current AI tools force users to:
 
 ## ILETP Development Provenance
 
-The included proof-of-concept or "preview" application was built entirely through AI-directed development, a collaborative process between a human product manager (me) and Claude (Anthropic),embedded in Xcode 26.0.1.  Without Swift coding expertise, I provided requirements and design decisions while Claude proposed implementation strategies, refined the architecture, and wrote code, while we both debugged issues. This resulted in a functional inter-LLM chat application in approximately 24 hours of active development time.
+The included proof-of-concept or "preview" application was built entirely through AI-directed development, a collaborative process between a human product manager (me) and Claude (Anthropic), embedded in Apple Xcode 26.0.1.  Without Swift coding expertise, I provided requirements and design decisions while Claude proposed implementation strategies, refined the architecture, and wrote code, while we both debugged issues. This resulted in a functional inter-LLM chat application in approximately 24 hours of active development time.
 
 The broader ILETP platform specifications and protocols (detailed in **/ILETP Specifications**) were developed through collaborative discussions with multiple AI models including Claude, ChatGPT (OpenAI), Gemini (Google), and Copilot (Microsoft).
 
