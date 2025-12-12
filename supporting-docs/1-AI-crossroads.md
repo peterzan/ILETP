@@ -57,7 +57,7 @@ The industry needs **standards as much as systems**, and many are still emerging
 
 The next frontier is unlikely to be a single frontier model, but **an ecosystem of models, interacting and verifying each other**, each contributing strengths. Not model vs. model — but model **with** model.
 
-This is where the concept behind ILETP™ becomes relevant. Instead of assuming a single model can provide authority, ILETP suggests a possibility space where **multiple, different AI systems collaborate**, **divergence is a signal**, and **consensus is earned, not assumed.**
+This is where the concept behind ILETP™ becomes relevant. Instead of assuming a single model can provide authority, ILETP suggests a possibility space where **multiple, different AI systems collaborate**, **divergence is a feature**, and **consensus is earned, not assumed.**
 
 ILETP is not presented here as a finished solution. It is a conceptual foundation — one that could evolve through open-source collaboration, policy alignment, and real-world experimentation.
 
