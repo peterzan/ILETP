@@ -113,9 +113,7 @@ Across industry announcements, research prototypes, and platform updates, the ec
 - developer-created micro-agents  
 - specialized vertical fleets (legal, medical, finance, etc.)
 
-These systems are powerful but increasingly complex.  
-Without accountability, complexity becomes risk.  
-With accountability, complexity becomes strength.
+These systems are powerful but increasingly complex.  Without accountability, complexity becomes risk.  With accountability, complexity becomes strength.
 
 ---
 
