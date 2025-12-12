@@ -45,7 +45,7 @@ Regions differ wildly in:
     
 ## 3. Regulatory divergence
 
-The EU, US, China, India, ASEAN, and Middle East all have:
+The EU, US, China, India, APAC, and Middle East all have:
     different compliance frameworks
     different transparency rules
     different safety refusals
