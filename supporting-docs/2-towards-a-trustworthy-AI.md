@@ -31,8 +31,7 @@ These forces collectively make single-model architectures obsolete for any conte
 
 ### The critical gap
   
-The industry has fleets.  
-What it lacks is **accountable fleets**.
+The industry has fleets.  What it lacks is **accountable fleets**.
 
 ILETP fills this gap by defining how independent models evaluate, challenge, and verify one another within a structured, auditable framework.
 
