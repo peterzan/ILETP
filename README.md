@@ -73,7 +73,7 @@ This repo is meant to be forked.  Think of it as a foundation, not a finished pr
 ---
 
 ## Example Usage & Vision
-Several example use cases (detailed in **/use-cases**) and an expanded use case (detailed in **/ILETP_UseCase_Test Tool Specs**) concept are included in the repo. These use cases are far from the only solutions that can be built by leveraging ILETP.  The **why** of ILETP are contained in various documents (detailed in **/**) that assist understanding of the need for such a platform now.
+Several example use cases (detailed in **/use-cases**) and an expanded use case (detailed in **/ILETP_UseCase_Test Tool Specs**) concept are included in the repo. These use cases are far from the only solutions that can be built by leveraging ILETP.  The **why** of ILETP are contained in various documents (detailed in **/supporting-docs**) that assist understanding of the need for such a platform now.
 
 ---
 
