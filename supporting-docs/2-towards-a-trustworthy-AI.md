@@ -58,8 +58,7 @@ Inter‑model accountability is the only way to produce:
 - resistance to model drift  
 - vendor‑agnostic trust signals  
 
-In short:  
-**Where independence matters, inter‑LLM accountability is mandatory.**
+In short:  **Where independence matters, inter‑LLM accountability is mandatory.**
 
 ---
 
