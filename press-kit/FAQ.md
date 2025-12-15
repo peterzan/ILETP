@@ -6,12 +6,12 @@ ILETP (Inter-LLM Ensemble Trust Platform) is an open, research-driven platform f
 
 ---
 ## Is ILETP a product or a research project?
-ILETP is intentionally released as a research platform and reference implementation, not a finished product.  It is designed to explore how trust, provenance, and user agency can be preserved in multi-agent AI systems, and to provide a foundation others can build on.
+ILETP is intentionally released as a research platform and reference implementation, not a finished product.  It is designed to explore how trust, provenance, and user agency can be preserved in inter-LLM systems, and to provide a foundation others can build on.
 
 ---
 
 ## Why does ILETP focus on inter-LLM collaboration instead of a single “best” model?
-As AI systems become more capable and more autonomous, trust becomes harder, not easier to establish. ILETP treats disagreement between models as a meaningful signal rather than a failure, allowing users to see where models align, where they diverge, and why. This inter-LLM approach makes uncertainty visible and decisions more defensible.
+As AI systems become more capable and more autonomous, trust becomes harder, not easier to establish. ILETP treats disagreement between models as a meaningful signal (divergence is a feature) rather than a failure, allowing users to see where models align, where they diverge, and why. This inter-LLM approach makes uncertainty visible and decisions more defensible.
 
 ---
 
@@ -26,8 +26,7 @@ ILETP is designed for developers, researchers, and organizations exploring high-
 ---
 
 ## Is ILETP production-ready?
-No.  ILETP is intentionally released in an early, exploratory state.
-The goal is learning, experimentation, and community-driven evolution, not immediate production deployment.
+No.  ILETP is intentionally released in an early, exploratory state. The goal is learning, experimentation, and community-driven evolution, not immediate production deployment.
 
 ---
 
@@ -42,8 +41,7 @@ These issues represent **exploratory directions**, not a committed roadmap. They
 ---
 
 ## Is ILETP intended to compete with A2A, MCP, or other agent frameworks?
-No.  ILETP is designed to be complementary and supportive, not competitive.
-Where protocols like A2A focus on agent coordination and MCP focuses on tool and context access, ILETP focuses on trust verification, consensus, auditability, and user control.
+No.  ILETP is designed to be complementary and supportive, not competitive.  Where protocols like A2A focus on agent coordination and MCP focuses on tool and context access, ILETP focuses on trust verification, consensus, auditability, and user control.
 
 ----
 
