@@ -91,7 +91,8 @@ _**NOTE**_: I will not be maintaining the Inter-LLM chat application code or spe
 ---
 
 ## Support & Contact
-- Open an issue for bugs and feature requests.  
+- Open an issue for bugs and feature requests.
+- Essays and long-form writing by the author will be published via GitHub Pages after the initial public release.
 - For direct contact: peter@iletp.org.
 
 ---
