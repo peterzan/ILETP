@@ -916,8 +916,6 @@ ILETP may not be the right choice for:
 
 The Inter-LLM Ensemble Trust Protocol is available as an open-source specification:
 
-**Repository:** https://github.com/[your-repo]/iletp
-
 **What's included:**
 - Protocol specification and architecture
 - Health Check API design
