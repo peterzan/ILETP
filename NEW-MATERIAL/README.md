@@ -49,6 +49,11 @@ This note explores **prompt injection as an architectural and governance problem
 
 ---
 
+## (New 2/2/2026) Use Case: Governed Knowledge Ingestion for Agentic Systems
+
+This use case examines how AI systems can safely ingest information from untrusted external sources without allowing that content to influence system behavior or execution. It focuses on separating data from directives at the point of ingestion, using structured extraction, verification, and escalation to reduce exposure to prompt injection and unintended control. The pattern is applicable to agentic and tool-enabled systems where governance, auditability, and pre-execution safeguards are required.
+
+---
 ## **Scope and Intent**
 
 These materials are intended to:
