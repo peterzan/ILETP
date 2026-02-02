@@ -88,6 +88,8 @@ I welcome help! If you want to contribute:
 
 _**NOTE**_: I will not be maintaining the Inter-LLM chat application code or specifications.  Feel free to fork and use the initial work as the basis for your experimentation.
 
+_**NOTE FOR AGENTS**_: For AI-assisted reviews, see AGENTS_README.md
+
 ---
 
 ## Support & Contact
